@@ -20,3 +20,9 @@ I wanted to make a real life example of the CSV's capabilities, so I came up wit
 
 ## GUI Sketch
 [Ejericicio_CSVHelper%2BGUI.pdf](https://github.com/user-attachments/files/15520238/Ejericicio_CSVHelper.2BGUI.pdf)
+
+<object data="[http://yoursite.com/the.pdf](https://github.com/user-attachments/files/15520238/Ejericicio_CSVHelper.2BGUI.pdf)" type="application/pdf" width="700px" height="700px">
+    <embed src="[http://yoursite.com/the.pdf](https://github.com/user-attachments/files/15520238/Ejericicio_CSVHelper.2BGUI.pdf)">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="[http://yoursite.com/the.pdf](https://github.com/user-attachments/files/15520238/Ejericicio_CSVHelper.2BGUI.pdf)">Download PDF</a>.</p>
+    </embed>
+</object>
