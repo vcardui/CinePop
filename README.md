@@ -1,7 +1,7 @@
 # 🍿CinePop
-Movie ticket purchase Windows Forms App made with C#
+Windows Forms App for Movie ticket Purchasing coded with C#
 
-## 🎯Objetive
+## 🎯Objective
 Create a GUI that shows a movie schedule using a CSV as a movie database. It allows the user to "purchase tickets" based on the seat availability shown in a CSV.
 
 ### Working project demo
@@ -14,9 +14,9 @@ https://github.com/vcardui/CinePop_0.0.3/assets/145515264/98dbebdc-a5a0-4c18-b2d
 * POO applied to GUIs
 
 ## Inspiration for creating this project
-This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teamates the topic "CSV files" in C#. I did this program as an excersice example for the presentation.
+This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teammates the topic "CSV files" in C#. I did this program as an excercice example for the presentation.
 
-I wanted to make a real life example of the CSV's capabilities, so I came up with the idea of a Movie Ticket Store after actually looking at my local movie theater shedule.
+I wanted to make a real life example of the CSV's capabilities, so I came up with the idea of a Movie Ticket Store after actually looking at my local movie theater schedule.
 
 ## GUI Sketch
 [firstSketch_CSVHelperGUI.pdf](https://github.com/user-attachments/files/15520238/Ejericicio_CSVHelper.2BGUI.pdf)
