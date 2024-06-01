@@ -1,7 +1,7 @@
-# CinePop
+# 🍿CinePop
 Movie ticket purchase Windows Forms App made with C#
 
-## Objetive
+## 🎯Objetive
 Create a GUI that shows a movie schedule using a CSV as a movie database. It allows the user to "purchase tickets" based on the seat availability shown in a CSV.
 
 ### Working project demo
