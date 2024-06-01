@@ -12,7 +12,7 @@ https://github.com/vcardui/CinePop_0.0.3/assets/145515264/98dbebdc-a5a0-4c18-b2d
 * Manipulate CSV files in C# aided by CSVHelper library. Learned how to use it's classes and methods
 * Windows Forms common controls setup and usage (Form, ComboBox PictureBox, Label, etc.)
 
-# Inspiration for creating this project
+## Inspiration for creating this project
 This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teamates the topic "CSV files" in C#. I did this program as an excersice example for the presentation.
 
 I wanted to make a real life example of the file capabilities, so I came up with the idea of a Movie Ticket Store after actually looking at my local movie theater shedule.
