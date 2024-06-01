@@ -8,7 +8,7 @@ Create a GUI that shows a movie schedule using a CSV as a movie database. It all
 https://github.com/vcardui/CinePop_0.0.3/assets/145515264/98dbebdc-a5a0-4c18-b2d5-bb61970386bd
 
 ## 🙌 Project Personal Milestones 
-* Learned the difference and how to use absolute and relative paths (place my CSVs and images properly so I could share the project to my classmates and teacher)
+* Learned the difference and how to use absolute and relative paths (placed my CSVs and images properly so I could share the project to my classmates and teacher)
 * Manipulated CSV files in C# aided by CSVHelper library. Learned how to use it's classes and methods
 * Used Windows Forms common controls setup and usage (Form, ComboBox PictureBox, Label, etc.)
 * Applied POO to GUIs
