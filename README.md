@@ -14,7 +14,7 @@ https://github.com/vcardui/CinePop_0.0.3/assets/145515264/98dbebdc-a5a0-4c18-b2d
 * Applied POO to GUIs
 
 ## 💡 Inspiration for creating this project
-This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teammates the topic "CSV files" in C#. I did this program as an example excercice for the presentation.
+This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teammates the topic "CSV files" in C#. I did this program as an example exercise for the presentation.
 
 I wanted to make a real life example of the CSV's capabilities, so I came up with the idea of a Movie Ticket Store after catching myself looking at my local movie theater schedule for watching a movie.
 
